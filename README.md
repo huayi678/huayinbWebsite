@@ -19,6 +19,6 @@ Set the apex (`@`) A records to `185.199.108.153`, `185.199.109.153`, `185.199.1
 
 ## Pending company details
 
-Contact email: `pplayerr32@gmail.com`. Keep the contact sections on all three pages and the related contact wording in the privacy policy in sync.
+Contact email: `akafi7977@gmail.com`. Keep the contact sections on all three pages and the related contact wording in the privacy policy in sync.
 
 `app-ads.txt` is intentionally absent until huayinb supplies its advertising records.
